@@ -25,5 +25,4 @@ This repository contains all projects done as part of Udacity Data Analyst Nanod
    
 6. P6 - Visualize Baseball Data using Tableau
 
-![certificate.PNG]({{site.baseurl}}/C:/Users/Esha/Desktop/certificate.PNG)
 
